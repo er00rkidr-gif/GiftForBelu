@@ -1,0 +1,6 @@
+{
+  "name": "BlockRig Studio",
+  "description": "3D Minecraft character animation studio with bendable rigs, custom skins, schematics, items, VFX, and Mine-imator export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
